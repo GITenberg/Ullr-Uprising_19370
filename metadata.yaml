@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8301
     wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19370#Ullr-Uprising
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-09-25'
 gutenberg_type: Text
